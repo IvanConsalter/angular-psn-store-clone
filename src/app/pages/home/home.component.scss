@@ -1,0 +1,13 @@
+.card-game-full-container {
+  background-image: url('../../../assets/playstation-bg.jpg');
+  width: 100%;
+}
+
+.card-game-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 6rem 0;
+}
